@@ -11,7 +11,7 @@
 
 ## About Me :
 
-I am a Robotics engineer from Egypt :egypt: :
+I am a Robotics engineer from Egypt :egypt::
 
 - 🔭 I’m currently studying M.Sc. in Robotics and Computer Vision at Innopolis University.
 - 🌱 Interested in path planning, robot control, and computer vision.
@@ -23,21 +23,21 @@ I am a Robotics engineer from Egypt :egypt: :
 ### 🛠 &nbsp; Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  alt="Matlab" width="40" height="40"/>;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"  alt="ROS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"  alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"  alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"  alt="Tensorflow" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain.svg"  alt="Opencv" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  alt="Matlab" width="50" height="50"/>;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"  alt="ROS" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"  alt="Docker" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"  alt="Git" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"  alt="Tensorflow" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain.svg"  alt="Opencv" width="50" height="50"/>&nbsp;
 
 </p>
 
 
 ### :desktop_computer: Languages:
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"  alt="Cpp" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"  alt="Latex" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  alt="Python" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"  alt="Cpp" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"  alt="Latex" width="50" height="50"/>&nbsp;
 
 </p>
 
