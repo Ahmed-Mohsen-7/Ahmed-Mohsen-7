@@ -11,23 +11,37 @@
 
 ## About Me :
 
-I am a Robotics engineer from Egypt:
+I am a Robotics engineer from Egypt :egypt: :
 
 - 🔭 I’m currently studying M.Sc. in Robotics and Computer Vision at Innopolis University.
 - 🌱 Interested in path planning, robot control, and computer vision.
 - ⚡ In my free time I read books about robotics and go to the gym.
 - 📫 Have a deeper look on my [profile](https://ahmed-mohsen-7.github.io/).
-
+- :hourglass: Looking for an opportunity in my interest.
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp; Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  alt="Matlab" width="40" height="40"/>;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"  alt="ROS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"  alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"  alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"  alt="Tensorflow" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain.svg"  alt="Opencv" width="40" height="40"/>&nbsp;
+
+</p>
+
+
+### :desktop_computer: Languages:
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  alt="Python" width="40" height="40"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"  alt="Cpp" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"  alt="Latex" width="40" height="40"/>&nbsp;
+
+</p>
+
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -40,7 +54,7 @@ I am a Robotics engineer from Egypt:
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; -->
-</p>
+
 
 ---
 
