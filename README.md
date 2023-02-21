@@ -16,7 +16,7 @@ I am a Robotics engineer from Egypt :egypt::
 - 🔭 I’m currently studying M.Sc. in Robotics and Computer Vision at Innopolis University.
 - 🌱 Interested in path planning, robot control, and computer vision.
 - ⚡ In my free time I read books about robotics and go to the gym.
-- 📫 Have a deeper look on my [profile](https://ahmed-mohsen-7.github.io/).
+- 📫 Have a deeper look at my [profile](https://ahmed-mohsen-7.github.io/).
 - :hourglass: Looking for an opportunity in my interest.
 ---
 
