@@ -13,11 +13,11 @@
 
 I am a Robotics engineer from Egypt :egypt::
 
-- 🔭 I’m currently studying M.Sc. in Robotics and Computer Vision at Innopolis University.
+- 🔭 I’m currently working as Software & AI engineer at Avemoy.
 - 🌱 Interested in path planning, robot control, and computer vision.
 - ⚡ In my free time I read books about robotics and go to the gym.
 - 📫 Have a deeper look at my [profile](https://ahmed-mohsen-7.github.io/).
-- :hourglass: Looking for an opportunity in my interest.
+- :hourglass: Looking for new challenges in robotics applications.
 ---
 
 ### 🛠 &nbsp; Tools :
